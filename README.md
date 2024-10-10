@@ -7,6 +7,10 @@ Welcome to my CTF write-ups repository! Here, I document my approaches, solution
 | Competition | Position |
 |-------------|----------|
 | Sudo Override | 5th     |
+|-------------|----------|
+| ShunyaCTF 2024 | 9th     |
+|-------------|----------|
+| ACNCTF 2024 | 3rd     |
 
 ## Competitions
 
